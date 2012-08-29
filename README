@@ -19,4 +19,4 @@ SqsThreads
 
 A toy message draining application that spins off threads to speed up the process.
 Uses AWS SQS to send, receive, and delete messages. (Probably could just use a MapReduce application,
-but this is more for fun.
+but this is more for fun. Add your AwsCredentials.properties to the root of the directory and you'll be good to go!
