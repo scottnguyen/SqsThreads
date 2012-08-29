@@ -1,4 +1,5 @@
 The MIT License (MIT)
+======
 
 Copyright (c) <2012> <Scott Nguyen>
 
@@ -16,6 +17,7 @@ OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHE
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 SqsThreads
+======
 
 A toy message draining application that spins off threads to speed up the process.
 Uses AWS SQS to send, receive, and delete messages. (Probably could just use a MapReduce application,
